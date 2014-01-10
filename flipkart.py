@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import urllib
 import requests
 import BeautifulSoup
@@ -78,8 +80,3 @@ def get_info(soup):
     for i in range(1,len(index)):
 		print index[i],':',values[i]
        
-if __name__ == '__main__':
-	book = str(raw_input('Book Name:'))
-	print '####### FLIPKART BOOK SEARCH RESULT #######'
-	link = get_act_url(book)
-	get_details(link)
