@@ -25,3 +25,6 @@ Libraries Used
 * urllib
 * requests
 * BeautifulSoup
+
+#TO DO
+*Add functions for more products
