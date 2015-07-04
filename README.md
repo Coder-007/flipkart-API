@@ -12,11 +12,6 @@ How to use
 * *see the results*
 
 Author : Devinder Kumar
-
-
-Email : devinderkumar@ieee.org
-
-
 github : coder-007
 
 
